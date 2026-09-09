@@ -5,4 +5,4 @@
 **Asignatura:** Fundamentos de Programación
 
 # Descripción
-Este programa en Pyton calcula el salario semanal de un trabajador en Función de las horas trabajadas y la tarifa por hora.
+Este programa en Python calcula el salario semanal de un trabajador en Función de las horas trabajadas y la tarifa por hora.
