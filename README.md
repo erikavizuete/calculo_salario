@@ -1,7 +1,9 @@
 # Cálculo de Salario Semanal
 
 **Tarea Semana 13:** Definición y uso de funciones en programación
+
 **Estudiante:** Erika Vizuete
+
 **Asignatura:** Fundamentos de Programación
 
 # Descripción
